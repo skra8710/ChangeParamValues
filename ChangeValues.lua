@@ -1,10 +1,11 @@
 --
--- Adjust velocity values for Oliver
+-- Adjust values for given parameter
 --
 
 --
 -- Sakura as Hanata
 -- October 27, 2018 @ HackOHI/O
+-- Discontinued due to AdjustGain (changes dynamics) and PartDetune (changes pitch) existing in official list of Job Plugins. Instead, a ResetValues plugin (to reset all parameter values) and plugins to adjust other unlisted parameters will replace this plugin. - December 29, 2018
 --
 
 --
